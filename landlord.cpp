@@ -1,4 +1,4 @@
-// lqndlord.cpp
+// landlord.cpp
 // client file for apart program
 
 #include "landlord.h"
